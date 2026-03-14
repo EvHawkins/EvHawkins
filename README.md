@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+My name is Everett Hawkins, a newly dubbed Cisco Certified Network Associate.
 
 <!--
 **EvHawkins/EvHawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feverett-hawkins-bb9328113%2F)
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/)
