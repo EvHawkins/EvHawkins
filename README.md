@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 -->
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/)
+
+## 🎓 Certifications 📚
+
+[![Static Badge](https://img.shields.io/badge/CCNA-Certification-blue?logo=cisco)](https://www.credly.com/badges/eaca5f9a-70a2-461a-a840-2854724f28f2/linked_in_profile) [![Static Badge](https://img.shields.io/badge/Google_IT_Professional-Certification-blue?logo=google&logoColor=green&labelColor=blue&color=red)
+](https://www.credly.com/badges/02f94c2d-cd72-4a8b-add1-3390f96eb030/linked_in_profile)
+
