@@ -4,6 +4,8 @@
 
 I'm a CCNA certified aspiring network engineer looking to break into the wonderful world of internet technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in computer networking in hopes of landing my first role as an IT professional. 
 
+I'm currently focused on building labs in cisco packet tracer as well was using physical equipment in my homelab to expand and sharpen my networking skill set.
+
 <!--
 **EvHawkins/EvHawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
