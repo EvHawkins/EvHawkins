@@ -1,5 +1,5 @@
-## Hello!
-My name is Everett Hawkins, a newly dubbed Cisco Certified Network Associate. 
+## Hello There, My Name Is Everett 👋🏽
+
 
 💻〰️〰️⚡️✉️⚡️〰️〰️💻
 
@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 [![Static Badge](https://img.shields.io/badge/Google_IT_Professional-Certification-blue?logo=google&logoColor=green&color=blue)
 ](https://www.credly.com/badges/02f94c2d-cd72-4a8b-add1-3390f96eb030/linked_in_profile)-->
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/)
+## Get In Touch 📫
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/) [![Static Badge](https://img.shields.io/badge/Email_Me-blue)](mailto:EverettHawkins11@gmail.com)
+
+
 
 ## 🎓 Certifications 📚
 
