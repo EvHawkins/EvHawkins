@@ -2,7 +2,7 @@
 
 💻〰️〰️⚡️✉️⚡️〰️〰️💻
 
-I'm a CCNA certified aspiring network engineer looking to break into the wonderful world of internet technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in computer networking in hopes of landing my first role as an IT Specialist. 
+I'm a CCNA certified aspiring network engineer looking to break into the wonderful world of internet technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in computer networking in hopes of landing my first role as an IT professional. 
 
 <!--
 **EvHawkins/EvHawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
