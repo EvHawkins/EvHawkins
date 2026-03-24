@@ -8,12 +8,16 @@ I'm a CCNA certified aspiring network engineer looking to break into the wonderf
 
 I'm currently focused on building labs in cisco packet tracer as well was using physical equipment in my homelab to expand and sharpen my networking skill set.
 
-## 📝 My Projects
+## 📝 Projects
 
 <details>
-  <summary>
-    
-  </summary>
+  <summary>Check out these labs!</summary>
+  
+  | Name| Repository |
+  | :---    | ---: |
+  | DHCP Lab| |
+
+  
 </details>
 
 
