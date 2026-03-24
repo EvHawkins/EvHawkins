@@ -8,6 +8,28 @@ I'm a CCNA certified aspiring network engineer looking to break into the wonderf
 
 I'm currently focused on building labs in cisco packet tracer as well was using physical equipment in my homelab to expand and sharpen my networking skill set.
 
+## 📝 My Projects
+
+<details>
+  <summary>
+    
+  </summary>
+</details>
+
+
+
+## Get In Touch 📫
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/) [![Static Badge](https://img.shields.io/badge/Email_Me-blue)](mailto:EverettHawkins11@gmail.com)
+
+
+
+## 🎓 Certifications 📚
+
+[![Static Badge](https://img.shields.io/badge/CCNA-Certification-blue?logo=cisco)](https://www.credly.com/badges/eaca5f9a-70a2-461a-a840-2854724f28f2/linked_in_profile)
+
+
+
 <!--
 **EvHawkins/EvHawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,13 +45,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Static Badge](https://img.shields.io/badge/Google_IT_Professional-Certification-blue?logo=google&logoColor=green&color=blue)
 ](https://www.credly.com/badges/02f94c2d-cd72-4a8b-add1-3390f96eb030/linked_in_profile)-->
-
-## Get In Touch 📫
-
-[![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/) [![Static Badge](https://img.shields.io/badge/Email_Me-blue)](mailto:EverettHawkins11@gmail.com)
-
-
-
-## 🎓 Certifications 📚
-
-[![Static Badge](https://img.shields.io/badge/CCNA-Certification-blue?logo=cisco)](https://www.credly.com/badges/eaca5f9a-70a2-461a-a840-2854724f28f2/linked_in_profile)
