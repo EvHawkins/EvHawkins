@@ -17,7 +17,7 @@ I'm currently focused on building labs in cisco packet tracer as well was using 
   | Open Shortest Path First | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/OSPF%20Lab) |
   | Network Address Translation | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/NAT%20Lab)|
 
-## Get In Touch 📫
+## 📫 Get In Touch
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/everett-hawkins-bb9328113/) [![Static Badge](https://img.shields.io/badge/Email_Me-blue)](mailto:EverettHawkins11@gmail.com)
 
