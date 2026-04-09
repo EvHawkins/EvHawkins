@@ -8,6 +8,10 @@ I'm a CCNA certified aspiring network engineer looking to break into the wonderf
 
 I'm currently focused on building labs in cisco packet tracer as well was using physical equipment in my homelab to expand and sharpen my networking skill set.
 
+## Here are a few projects that I've been working on. Please feel free to check them out.
+
+<div align="center">
+
 ## 🗄️ Active Directory and Windows Server 2025
   
  | Name| Repository |
@@ -23,6 +27,8 @@ I'm currently focused on building labs in cisco packet tracer as well was using 
   | Virtual LAN | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/Vlan%20Lab)|
   | Open Shortest Path First | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/OSPF%20Lab) |
   | Network Address Translation | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/NAT%20Lab)|
+
+  </div>
 
 ## 📫 Get In Touch
 
