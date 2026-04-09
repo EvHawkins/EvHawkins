@@ -8,6 +8,13 @@ I'm a CCNA certified aspiring network engineer looking to break into the wonderf
 
 I'm currently focused on building labs in cisco packet tracer as well was using physical equipment in my homelab to expand and sharpen my networking skill set.
 
+## 🗄️ Active Directory and Windows Server 2025
+  
+ | Name| Repository |
+ | :---    | ---: |
+ | Windows Server 2025 Setup| [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/Active-Directory-Home-Lab/tree/main/Windows%20Server%202025)
+ | Active Directory Services | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/Active-Directory-Home-Lab/tree/main/Active%20Directory%20Services)|
+
 ## 📝 Networking Projects
 
   | Name| Repository |
