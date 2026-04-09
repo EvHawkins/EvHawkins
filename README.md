@@ -1,4 +1,4 @@
-## Hey There! I'm Everett 👋🏽 [![Visits Badge](https://badges.pufler.dev/visits/evhawkins/evhawkins)](https://github.com/EvHawkins/EvHawkins/edit/main/README.md)
+## Hey There! I'm Everett 👋🏽 [![Visits Badge](https://badges.pufler.dev/visits/evhawkins/evhawkins)](https://github.com/EvHawkins)
 
 ## 💥 About Me
 
