@@ -1,4 +1,4 @@
-## Hello There, My Name Is Everett 👋🏽
+## Hey There! I'm Everett 👋🏽
 
 ## 💥 About Me
 
