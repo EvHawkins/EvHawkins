@@ -21,9 +21,9 @@ I'm currently focused on building labs in cisco packet tracer as well was using 
 
   | Name| Repository |
   | :---    | ---: |
-  | Dynamic Host Configuration Protocol| [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/DHCP%20Lab) |
+  | Dynamic Host Configuration Protocol (DHCP)| [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/DHCP%20Lab) |
   | Virtual LAN | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/Vlan%20Lab)|
-  | Open Shortest Path First | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/OSPF%20Lab) |
+  | Open Shortest Path First(OSPF) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/OSPF%20Lab) |
   | Network Address Translation | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/NAT%20Lab)|
 
 
