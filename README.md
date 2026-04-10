@@ -22,9 +22,9 @@ I'm currently focused on building labs in Cisco Packet Tracer, VMware Workstatio
   | Name| Repository |
   | :---    | ---: |
   | Dynamic Host Configuration Protocol (DHCP)| [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/DHCP%20Lab) |
-  | Virtual LAN(Vlan) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/Vlan%20Lab)|
-  | Open Shortest Path First(OSPF) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/OSPF%20Lab) |
-  | Network Address Translation(NAT) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/NAT%20Lab)|
+  | Virtual LAN (Vlan) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/Vlan%20Lab)|
+  | Open Shortest Path First (OSPF) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/OSPF%20Lab) |
+  | Network Address Translation (NAT) | [![Static Badge](https://img.shields.io/badge/Repository-blue)](https://github.com/EvHawkins/CCNA-Packet-Tracer-Labs/tree/main/CCNA%20Labs/NAT%20Lab)|
 
 
 
