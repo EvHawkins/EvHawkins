@@ -2,15 +2,15 @@
 
 ## 💥 About Me
 
-I'm a CCNA certified aspiring network engineer looking to break into the wonderful world of internet technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in computer networking in hopes of landing my first role as an IT professional. 
+I'm a CCNA certified aspiring network engineer looking to break into the wonderful world of Information Technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in all things IT. 
 
 💻〰️〰️⚡️✉️⚡️〰️〰️💻
 
-I'm currently focused on building labs in cisco packet tracer as well was using physical equipment in my homelab to expand and sharpen my networking skill set.
+I'm currently focused on building labs in Cisco Packet Tracer, VMware Workstation, and using physical equipment in my homelab to expand and sharpen my networking skill set.
 
 ## 🛠️ Here are a few projects that I've been working on 🛠️
 
-## 🗄️ Active Directory and Windows Server 2025
+## 🗄️ Active Directory and Windows Server 2025 built on VMware Virtual Machines
   
  | Name| Repository |
  | :---    | ---: |
