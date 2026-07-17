@@ -2,7 +2,7 @@
 
 ## 💥 About Me
 
-I am a CCNA and Security + certified aspiring network engineer looking to break into the wonderful world of Information Technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in all things IT. 
+I am a CompTIA A+, Security +, and Cisco CCNA certified aspiring network engineer looking to break into the wonderful world of Information Technology. Whether it be through virtual labs or phyiscal equipment, I've made it my mission to grow, learn, and reinforce my skills in all things IT. 
 
 💻〰️〰️⚡️✉️⚡️〰️〰️💻
 
